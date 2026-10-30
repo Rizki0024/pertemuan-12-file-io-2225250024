@@ -21,7 +21,7 @@ di Python serta menangani error dasar menggunakan try-except.
 
 ## Struktur Folder
 
-pertemuan-12-file-io-NIM/
+pertemuan-12-file-io-2225250024/
 - README.md
 - .gitignore
 - data/
