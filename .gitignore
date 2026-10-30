@@ -1,0 +1,10 @@
+# File cache Python
+__pycache__/
+*.pyc
+
+# Pengaturan editor
+.vscode/
+
+# File sistem
+.DS_Store
+Thumbs.db
