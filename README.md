@@ -1,8 +1,8 @@
 # Pertemuan 12 - File I/O dan Error Handling
 
-Nama: ...
-NIM: ...
-Kelas: ...
+Nama: Rizki Ramadan
+NIM: 2225250024
+Kelas: 3F
 
 ## Tujuan
 
